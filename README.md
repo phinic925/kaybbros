@@ -7,7 +7,7 @@ This is a website which helps organizations to increase their productivity throu
 
 - [Introduction](#introduction)
 - [Installation](#installation)
--[Live-Link](#live-link)
+- [Live-Link](#live-link)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [License](#license)

@@ -34,7 +34,7 @@ Access our website using this link [https://spotlessguru.biz/](https://kaybrosco
 - React
 - Vite
 - Tailwind CSS
-- Firebase
+
 
 ## Contributing
 
